@@ -1,2 +1,2 @@
-# Tela de Login - 2025
-# by: Otávio Henrique
+# Tela de Login
+# - FEITO EM PT-BR
